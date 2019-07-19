@@ -3,7 +3,7 @@ AnalyserJS is audio analyser based on [Web Audio API Documentation](https://www.
      
      
      
-#### Audio Analyser class
+### Audio Analyser class
 Class that implements the [AnalyserNode](https://www.w3.org/TR/webaudio/#analysernode), it
 uses raw audio data given directly from the microphone or audio file and converts the signal from its original time domain to a representation in the frequency domain using [fast Fourier transform (FFT)]( https://en.wikipedia.org/wiki/Fast_Fourier_transform)
 
