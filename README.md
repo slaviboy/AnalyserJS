@@ -1,5 +1,5 @@
 # AnalyserJS
-AnalyserJS is audio analyser based on [Web Audio API Documentation](https://www.w3.org/TR/webaudio/#analysernode) writen in JS(Java Script)      
+AnalyserJS is audio analyser based on [Web Audio API Documentation](https://www.w3.org/TR/webaudio/#analysernode) writen in JS(JavaScript )      
      
      
      
